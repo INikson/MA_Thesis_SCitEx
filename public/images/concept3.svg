@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(85,184) rotate(-90)" font-size="110" style="fill:rgb(67, 62, 133)">  </text>
+<text transform="translate(27,173)" font-size="82" style="fill:rgb(218, 227, 25)">learn</text>
+<text transform="translate(36,199)" font-size="27" style="fill:rgb(51, 98, 141)">organizational</text>
+<text transform="translate(86,97)" font-size="27" style="fill:rgb(155, 217, 60)">failure</text>
+<text transform="translate(109,232)" font-size="27" style="fill:rgb(72, 40, 120)">learning</text>
+<text transform="translate(83,115)" font-size="24" style="fill:rgb(72, 32, 113)">leadership</text>
+<text transform="translate(71,64)" font-size="22" style="fill:rgb(41, 121, 142)">organization</text>
+<text transform="translate(85,248)" font-size="22" style="fill:rgb(64, 189, 114)">management</text>
+<text transform="translate(74,134) rotate(-90)" font-size="22" style="fill:rgb(96, 202, 96)">adapt</text>
+<text transform="translate(123,269)" font-size="21" style="fill:rgb(56, 88, 140)">model</text>
+<text transform="translate(144,78)" font-size="18" style="fill:rgb(244, 230, 30)">behavior</text>
+<text transform="translate(112,39)" font-size="15" style="fill:rgb(61, 188, 116)">capacity</text>
+<text transform="translate(85,123)" font-size="11" style="fill:rgb(162, 218, 55)">environment</text>
+<text transform="translate(159,208)" font-size="11" style="fill:rgb(96, 202, 96)">task</text>
+<text transform="translate(46,219)" font-size="11" style="fill:rgb(170, 220, 50)">journal</text>
+<text transform="translate(225,109)" font-size="11" style="fill:rgb(52, 96, 141)">study</text>
+<text transform="translate(60,227)" font-size="11" style="fill:rgb(42, 120, 142)">change</text>
+<text transform="translate(202,212)" font-size="11" style="fill:rgb(45, 112, 142)">research</text>
+<text transform="translate(198,88)" font-size="10" style="fill:rgb(86, 198, 103)">university</text>
+<text transform="translate(86,45)" font-size="10" style="fill:rgb(50, 100, 142)">item</text>
+<text transform="translate(218,123)" font-size="10" style="fill:rgb(44, 113, 142)">december</text>
+<text transform="translate(190,180)" font-size="10" style="fill:rgb(66, 63, 133)">edmondson</text>
+<text transform="translate(58,145)" font-size="10" style="fill:rgb(127, 211, 78)">fit</text>
+<text transform="translate(32,180)" font-size="10" style="fill:rgb(181, 222, 43)">variable</text>
+<text transform="translate(209,95)" font-size="10" style="fill:rgb(56, 88, 140)">factor</text>
+<text transform="translate(34,165) rotate(-90)" font-size="10" style="fill:rgb(70, 51, 127)">industry</text>
+<text transform="translate(176,161) rotate(-90)" font-size="10" style="fill:rgb(33, 143, 141)">science</text>
+<text transform="translate(86,206)" font-size="10" style="fill:rgb(33, 165, 133)">download</text>
+<text transform="translate(192,156)" font-size="10" style="fill:rgb(39, 173, 129)">texas</text>
+<text transform="translate(273,176) rotate(-90)" font-size="10" style="fill:rgb(63, 72, 137)">southern</text>
+<text transform="translate(122,213)" font-size="6" style="fill:rgb(88, 199, 101)">jabsagepubcom</text>
+<text transform="translate(125,172) rotate(-90)" font-size="6" style="fill:rgb(68, 59, 132)">adaptability</text>
+<text transform="translate(204,256)" font-size="6" style="fill:rgb(67, 62, 133)">tmt</text>
+<text transform="translate(185,254)" font-size="6" style="fill:rgb(54, 93, 141)">test</text>
+<text transform="translate(187,43)" font-size="6" style="fill:rgb(63, 188, 115)">carmeli</text>
+<text transform="translate(145,46)" font-size="6" style="fill:rgb(72, 40, 120)">process</text>
+<text transform="translate(100,158)" font-size="6" style="fill:rgb(39, 126, 142)">high</text>
+<text transform="translate(88,256)" font-size="6" style="fill:rgb(202, 225, 31)">perceive</text>
+<text transform="translate(133,273)" font-size="5" style="fill:rgb(124, 210, 80)">environmental</text>
+<text transform="translate(103,76)" font-size="5" style="fill:rgb(132, 212, 75)">leader</text>
+<text transform="translate(192,163)" font-size="5" style="fill:rgb(46, 111, 142)">behavioral</text>
+<text transform="translate(205,141)" font-size="5" style="fill:rgb(71, 42, 122)">manager</text>
+<text transform="translate(92,180)" font-size="5" style="fill:rgb(72, 20, 103)">review</text>
+<text transform="translate(133,178)" font-size="5" style="fill:rgb(45, 178, 125)">strategic</text>
+<text transform="translate(32,105)" font-size="5" style="fill:rgb(63, 72, 137)">measure</text>
+<text transform="translate(215,242)" font-size="5" style="fill:rgb(78, 195, 107)">context</text>
+<text transform="translate(228,62)" font-size="5" style="fill:rgb(33, 143, 141)">new</text>
+<text transform="translate(237,163)" font-size="5" style="fill:rgb(88, 199, 101)">apply</text>
+<text transform="translate(35,127)" font-size="5" style="fill:rgb(58, 83, 139)">way</text>
+<text transform="translate(36,95)" font-size="5" style="fill:rgb(44, 114, 142)">member</text>
+<text transform="translate(200,147)" font-size="5" style="fill:rgb(55, 184, 120)">result</text>
+<text transform="translate(38,165) rotate(-90)" font-size="5" style="fill:rgb(71, 13, 96)">relationship</text>
+<text transform="translate(183,120)" font-size="5" style="fill:rgb(108, 205, 90)">employee</text>
+<text transform="translate(55,209)" font-size="5" style="fill:rgb(71, 13, 96)">enable</text>
+<text transform="translate(56,231)" font-size="5" style="fill:rgb(129, 211, 77)">rivalry</text>
+<text transform="translate(186,263)" font-size="5" style="fill:rgb(86, 198, 103)">work</text>
+<text transform="translate(57,159)" font-size="5" style="fill:rgb(80, 196, 106)">safety</text>
+<text transform="translate(136,204)" font-size="5" style="fill:rgb(65, 68, 135)">enhance</text>
+<text transform="translate(129,143)" font-size="5" style="fill:rgb(58, 83, 139)">sheaffer</text>
+<text transform="translate(263,201) rotate(-90)" font-size="5" style="fill:rgb(239, 229, 28)">specific</text>
+<text transform="translate(242,151)" font-size="5" style="fill:rgb(186, 222, 40)">firm</text>
+<text transform="translate(78,67)" font-size="5" style="fill:rgb(46, 110, 142)">error</text>
+<text transform="translate(94,215)" font-size="5" style="fill:rgb(34, 139, 141)">loop</text>
+<text transform="translate(112,48)" font-size="5" style="fill:rgb(68, 57, 131)">indicate</text>
+<text transform="translate(109,264)" font-size="5" style="fill:rgb(69, 5, 89)">use</text>
+<text transform="translate(78,136) rotate(-90)" font-size="5" style="fill:rgb(39, 127, 142)">psychological</text>
+<text transform="translate(168,176)" font-size="5" style="fill:rgb(31, 161, 135)">york</text>
+<text transform="translate(237,216)" font-size="5" style="fill:rgb(62, 76, 138)">academy</text>
+<text transform="translate(78,74)" font-size="5" style="fill:rgb(72, 23, 105)">key</text>
+<text transform="translate(121,70)" font-size="5" style="fill:rgb(41, 122, 142)">team</text>
+<text transform="translate(226,75)" font-size="5" style="fill:rgb(101, 203, 94)">press</text>
+<text transform="translate(175,92)" font-size="5" style="fill:rgb(54, 93, 141)">ed</text>
+<text transform="translate(180,157) rotate(-90)" font-size="5" style="fill:rgb(38, 129, 142)">information</text>
+<text transform="translate(43,165) rotate(-90)" font-size="5" style="fill:rgb(71, 16, 99)">respective</text>
+<text transform="translate(236,228)" font-size="5" style="fill:rgb(51, 98, 141)">type</text>
+<text transform="translate(59,239)" font-size="5" style="fill:rgb(37, 132, 142)">business</text>
+<text transform="translate(197,168)" font-size="5" style="fill:rgb(173, 220, 48)">hypothesis</text>
+<text transform="translate(84,48)" font-size="4" style="fill:rgb(37, 131, 142)">response</text>
+<text transform="translate(104,269)" font-size="4" style="fill:rgb(88, 199, 101)">quality</text>
+<text transform="translate(189,203)" font-size="4" style="fill:rgb(71, 14, 97)">question</text>
+<text transform="translate(196,48)" font-size="4" style="fill:rgb(139, 214, 70)">finding</text>
+<text transform="translate(59,150)" font-size="4" style="fill:rgb(39, 128, 142)">theory</text>
+<text transform="translate(51,203)" font-size="4" style="fill:rgb(53, 183, 121)">role</text>
+<text transform="translate(224,115)" font-size="4" style="fill:rgb(105, 205, 91)">facilitate</text>
+<text transform="translate(174,211)" font-size="4" style="fill:rgb(71, 17, 100)">strategy</text>
+<text transform="translate(130,27)" font-size="4" style="fill:rgb(46, 110, 142)">different</text>
+<text transform="translate(66,199) rotate(-90)" font-size="4" style="fill:rgb(226, 228, 24)">scale</text>
+<text transform="translate(239,156)" font-size="4" style="fill:rgb(50, 101, 142)">service</text>
+<text transform="translate(121,254)" font-size="4" style="fill:rgb(37, 171, 130)">address</text>
+<text transform="translate(46,84)" font-size="4" style="fill:rgb(103, 204, 92)">senior</text>
+<text transform="translate(248,98)" font-size="4" style="fill:rgb(72, 40, 120)">follow</text>
+<text transform="translate(184,34)" font-size="4" style="fill:rgb(70, 48, 126)">provide</text>
+<text transform="translate(64,245)" font-size="4" style="fill:rgb(68, 1, 84)">mediate</text>
+<text transform="translate(226,202)" font-size="4" style="fill:rgb(49, 181, 123)">encourage</text>
+<text transform="translate(239,170)" font-size="4" style="fill:rgb(31, 148, 140)">problem</text>
+<text transform="translate(210,99)" font-size="4" style="fill:rgb(33, 142, 141)">innovation</text>
+<text transform="translate(214,246)" font-size="4" style="fill:rgb(34, 167, 133)">construct</text>
+<text transform="translate(64,68)" font-size="4" style="fill:rgb(40, 174, 128)">latent</text>
+<text transform="translate(164,229)" font-size="4" style="fill:rgb(36, 134, 142)">lead</text>
+<text transform="translate(168,164)" font-size="4" style="fill:rgb(35, 169, 131)">system</text>
+<text transform="translate(83,93) rotate(-90)" font-size="4" style="fill:rgb(42, 120, 142)">2004b</text>
+<text transform="translate(88,262)" font-size="4" style="fill:rgb(200, 224, 32)">schneider</text>
+<text transform="translate(101,221)" font-size="4" style="fill:rgb(37, 172, 130)">action</text>
+<text transform="translate(35,207)" font-size="4" style="fill:rgb(38, 130, 142)">approach</text>
+<text transform="translate(182,126)" font-size="4" style="fill:rgb(71, 16, 99)">control</text>
+<text transform="translate(98,141)" font-size="4" style="fill:rgb(88, 199, 101)">ceo</text>
+<text transform="translate(239,221)" font-size="4" style="fill:rgb(35, 169, 131)">attempt</text>
+<text transform="translate(208,203)" font-size="4" style="fill:rgb(43, 117, 142)">example</text>
+<text transform="translate(244,143)" font-size="4" style="fill:rgb(72, 40, 120)">point</text>
+<text transform="translate(58,107) rotate(-90)" font-size="4" style="fill:rgb(52, 96, 141)">practice</text>
+<text transform="translate(200,125)" font-size="4" style="fill:rgb(31, 154, 138)">culture</text>
+<text transform="translate(270,125) rotate(-90)" font-size="4" style="fill:rgb(69, 53, 129)">exchange</text>
+<text transform="translate(144,159)" font-size="4" style="fill:rgb(45, 112, 142)">value</text>
+<text transform="translate(263,112) rotate(-90)" font-size="4" style="fill:rgb(37, 133, 142)">report</text>
+<text transform="translate(276,159) rotate(-90)" font-size="4" style="fill:rgb(66, 190, 113)">structure</text>
+<text transform="translate(33,196) rotate(-90)" font-size="4" style="fill:rgb(110, 206, 88)">dynamic</text>
+<text transform="translate(134,93) rotate(-90)" font-size="4" style="fill:rgb(68, 1, 84)">structural</text>
+<text transform="translate(231,69)" font-size="4" style="fill:rgb(39, 127, 142)">analysis</text>
+<text transform="translate(97,233)" font-size="4" style="fill:rgb(92, 200, 99)">effect</text>
+<text transform="translate(166,128) rotate(-90)" font-size="4" style="fill:rgb(194, 223, 35)">literature</text>
+<text transform="translate(130,191) rotate(-90)" font-size="4" style="fill:rgb(72, 38, 119)">turbulence</text>
+<text transform="translate(226,162) rotate(-90)" font-size="4" style="fill:rgb(59, 81, 139)">importance</text>
+<text transform="translate(267,190) rotate(-90)" font-size="4" style="fill:rgb(178, 221, 45)">suggest</text>
+<text transform="translate(102,225)" font-size="4" style="fill:rgb(72, 41, 121)">recent</text>
+<text transform="translate(160,252)" font-size="4" style="fill:rgb(72, 37, 118)">develop</text>
+</svg>
