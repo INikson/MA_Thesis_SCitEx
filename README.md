@@ -1,5 +1,5 @@
 
-## Available Scripts
+FRONTEND PART OF THE SCIENCE CITATION EXPLORER PROGRAM
 
 In the project directory, you can run:
 
